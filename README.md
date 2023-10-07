@@ -1,6 +1,6 @@
-# **iCare India**: Healthcare Solution for Rural India
+# **genDoc India**: Healthcare Solution for Rural India
 
-**iCare India** is a web application that extends the benefits of telemedicine across the remote parts of India. This application is a one-stop economical tech based solution that can process large volumes of data, give personalized heathcare treatments to the patients and help in improving the clinical diagnostics. This solution uses GenAI that can personalize diagnosis and treatement of patients by predicting the disease progression, can create patient specific treatment plans and enhances the telemedicine experiences.
+**genDoc India** is a web application that extends the benefits of telemedicine across the remote parts of India. This application is a one-stop economical tech based solution that can process large volumes of data, give personalized heathcare treatments to the patients and help in improving the clinical diagnostics. This solution uses GenAI that can personalize diagnosis and treatement of patients by predicting the disease progression, can create patient specific treatment plans and enhances the telemedicine experiences.
 
 ### **Table of Contents**
 - [Trailer](#trailer)
