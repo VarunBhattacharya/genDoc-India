@@ -44,9 +44,10 @@ Have to Fill
 
 ### **Credits**
 - Varun Bhattacharya - <a href="https://www.linkedin.com/in/varunbhattacharya/">LinkedIn</a>, <a href="https://www.instagram.com/varunbhattacharya.in/">Instagram</a>, <a href="https://github.com/VarunBhattacharya/">GitHub</a>
+- Ketan Agrawal - <a href="https://www.linkedin.com/in/ketan-agrawal-b61a40205/">LinkedIn</a>, <a href="https://www.instagram.com/ketanagrawal_2002/">Instagram</a>, <a href="https://github.com/KetanAgrawal2002">GitHub</a>
 
 
-### **Special Thanks to,**
+<!-- ### **Special Thanks to,**
 - Music by MaxKoMusic from Chosic.com
 (An Epic Story by MaxKoMusic | https://maxkomusic.com/
 Music promoted by https://www.chosic.com/free-music/all/
@@ -54,7 +55,7 @@ Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 https://creativecommons.org/licenses/by-sa/3.0/)
 - Google Fonts
 - Getty Images - Saeed Khan
-- Pixlok - <a href="https://pixlok.com/images/ipl-png-logo-free-download/">House photo created by Search png - www.pixlok.com</a>
+- Pixlok - <a href="https://pixlok.com/images/ipl-png-logo-free-download/">House photo created by Search png - www.pixlok.com</a> -->
 
 
 ### **Licence**
