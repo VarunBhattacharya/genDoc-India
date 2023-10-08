@@ -21,6 +21,13 @@
 ### **Downloads**
 Have to Fill
 
+<!-- | Ver. No. |     Type     | Stability |                         Link                         |
+| :------: | :----------: | :-------: | :--------------------------------------------------: |
+|   v01    | Source Code  |  Stable   | <a href="https://github.com/VarunBhattacharya/IPL_Predictor/archive/refs/heads/main.zip" download="">Download</a> |
+|   v01    | Portable Zip |    N/A    |                         N/A                          |
+|   v01    |   One File   |    N/A    |                         N/A                          |
+|   v01    |  Installer   |    N/A    |                         N/A                          | -->
+
 
 ### **Requirements**
 Have to Fill
